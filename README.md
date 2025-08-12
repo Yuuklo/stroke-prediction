@@ -12,4 +12,4 @@ This repository contains the following folders:
 - `notebooks` : jupyter notebooks for workflow organization
 - `models` : gallery of all charts/graphs produced throughout the process
 ---
-Libraries: `pandas`, `numpy`, `matplotlib.pyplot`, `seaborn`, `scikit-learn`, `imblearn.over_sampling`, `xgboost`
+Libraries: `pandas`, `numpy`, `matplotlib.pyplot`, `seaborn`, `scikit-learn`
